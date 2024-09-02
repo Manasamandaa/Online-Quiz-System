@@ -1,0 +1,1 @@
+Developed an interactive Online Quiz System using HTML, CSS, and JavaScript, designed to evaluate users' knowledge through a series of questions with multiple-choice answers. The system dynamically loads questions and options, tracks user selections, and provides instant feedback with a score summary upon quiz submission.
